@@ -24,3 +24,14 @@ values from visible faces by [Shubhanjan Dash](https://github.com/monkas24x7).
 > 9. Given an integer array, find three numbers whose product is maximum and output the maximum product. Note: Length of array is in the range :[3,104] and array element range: [-1000, 1000].
 by [Suman More](https://github.com/SumanMore).
 > 10. Prim’s Minimum Spanning Tree Program by [CWC-ITER](https://github.com/CodingWizardITER).
+
+
+## Method of Submission 
+> 1. Make a private repo with your registration number in the CWC organisation.
+> 2. After making your repo make a folder inside it with the name First Test.
+> 3. No restriction on the choice of language.
+> 4. Lastly, make sure that code should not be copied from the internet.
+> 5. The important thing that your repo shouldn't be shared with anyone else make sure it's accessible by you only.
+
+## Last date of uploading 16th May 2021.
+### After the last day, none of your submissions will be counted.
